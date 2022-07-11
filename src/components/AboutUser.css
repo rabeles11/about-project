@@ -1,0 +1,13 @@
+.MainDivAboutUser{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.MainDivAboutUser h1{
+    color: white;
+    font-size: 16px;
+}
+.MainDivAboutUser p{
+    color: white;
+    font-size: 10.24px;
+}

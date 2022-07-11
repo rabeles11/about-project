@@ -1,0 +1,8 @@
+.HeaderProfilePicture{
+    height: 270px;
+    width: 317px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin: auto;
+    display: block
+}

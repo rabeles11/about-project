@@ -1,0 +1,74 @@
+.MainDiv{
+    text-align: center;
+}
+.MainDiv h1{
+    color: white;
+    font-size: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+}
+.MainDiv h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #F3BF99;
+}
+.MainDiv h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    text-align: center;
+    color: #F5F5F5;
+}
+
+.EmailButton{
+    box-sizing: border-box;
+    display: block;
+    width: 115px;
+    height: 34px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+.TextAndIconLinkedIn{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    color: white;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bo;
+    font-size: 14px;
+    line-height: 16px;
+}
+.TextAndIconEmail{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+.LinkedInButton{
+    width: 115px;
+    height: 34px;
+    background: #5093E2;
+    border: 1px solid #5093E2;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+.InsideDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.InsideDiv a{
+    text-decoration: none;
+}
